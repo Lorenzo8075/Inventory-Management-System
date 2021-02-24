@@ -1,0 +1,8 @@
+1001;false;iphone;200;999.99
+1002;true;PS5;0;499.99
+1003;false;Xbox One;350;299.99
+1004;false;Monitor;425;199.99
+1005;false;Television;600;499.99
+1006;false;Macbook;100;1299.99
+1007;false;Keyboard;800;59.99
+1008;false;Mouse;1500;29.99
